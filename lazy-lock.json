@@ -1,0 +1,10 @@
+{
+  "flash.nvim": { "branch": "main", "commit": "43f67935d388fbb540f8b40e8cbfd80de54f978a" },
+  "hardtime.nvim": { "branch": "main", "commit": "9a4e24fb40482dc85a93bf6cf344a030b9bf9a39" },
+  "karen-yank.nvim": { "branch": "main", "commit": "817f50c9464ce557c8f7f8f4d4c8d2f7b81fc40c" },
+  "lazy.nvim": { "branch": "main", "commit": "69041bccb70f68408633e93ed33012ee18889bb0" },
+  "nui.nvim": { "branch": "main", "commit": "a2bc1e9d0359caa5d11ad967cd1e30e8d4676226" },
+  "plenary.nvim": { "branch": "master", "commit": "a3e3bc82a3f95c5ed0d7201546d5d2c19b20d683" },
+  "vim-repeat": { "branch": "master", "commit": "24afe922e6a05891756ecf331f39a1f6743d3d5a" },
+  "vim-sandwich": { "branch": "master", "commit": "74cf93d58ccc567d8e2310a69860f1b93af19403" }
+}

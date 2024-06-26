@@ -1,0 +1,4 @@
+* text=lf
+
+*.lua text
+*.json text
